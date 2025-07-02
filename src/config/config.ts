@@ -13,7 +13,7 @@ const config = convict({
   },
   appName: {
     doc: "The application name.",
-    default: "scheduler_backend",
+    default: "ollamaBalancer",
     env: "APP_NAME",
   },
   swaggerServer: {
