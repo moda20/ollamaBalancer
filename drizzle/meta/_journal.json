@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1751375796556,
+      "tag": "0000_tiresome_ma_gnuci",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1751405955955,
+      "tag": "0001_yielding_swarm",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1751375796556,
+      "tag": "0000_tiresome_ma_gnuci_2",
+      "breakpoints": true
+    }
+  ]
+}
